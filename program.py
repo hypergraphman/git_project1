@@ -4,6 +4,7 @@ def main():
     print('Blue')
     print('new line in local in master')
     print('new line in server in master')
+    print('Someone')
 
 
 if __name__ == '__main__':
