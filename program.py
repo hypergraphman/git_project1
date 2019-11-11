@@ -3,6 +3,7 @@ def main():
     print('Green')
     print('Blue')
     print('new line in local in master')
+    print('new line in server in master')
 
 
 if __name__ == '__main__':
