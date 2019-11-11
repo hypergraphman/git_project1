@@ -1,7 +1,7 @@
 def main():
     print('My first git program')
     print('Green')
-    print('Red')
+    print('Grey')
     print('Blue')
 
 
