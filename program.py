@@ -1,8 +1,8 @@
 def main():
     print('My first git program')
     print('Green')
-    print('Green')
-    print('Green')
+    print('Red')
+    print('Blue')
 
 
 if __name__ == '__main__':
